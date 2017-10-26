@@ -1,0 +1,7 @@
+C:\Users\usr\Documents\Visual Studio 2017\Projects\GnomeSort\GnomeSort\bin\Debug\GnomeSort.exe.config
+C:\Users\usr\Documents\Visual Studio 2017\Projects\GnomeSort\GnomeSort\bin\Debug\GnomeSort.exe
+C:\Users\usr\Documents\Visual Studio 2017\Projects\GnomeSort\GnomeSort\bin\Debug\GnomeSort.pdb
+C:\Users\usr\Documents\Visual Studio 2017\Projects\GnomeSort\GnomeSort\obj\Debug\GnomeSort.csprojResolveAssemblyReference.cache
+C:\Users\usr\Documents\Visual Studio 2017\Projects\GnomeSort\GnomeSort\obj\Debug\GnomeSort.csproj.CoreCompileInputs.cache
+C:\Users\usr\Documents\Visual Studio 2017\Projects\GnomeSort\GnomeSort\obj\Debug\GnomeSort.exe
+C:\Users\usr\Documents\Visual Studio 2017\Projects\GnomeSort\GnomeSort\obj\Debug\GnomeSort.pdb
