@@ -1,0 +1,25 @@
+﻿Worst-case performance	O(n^2)
+Best-case performance	O(n)
+Average performance		O(n^2)
+
+80000 numbers
+30991 milliseconds
+31214 milliseconds
+30713 milliseconds
+32382 milliseconds
+32546 milliseconds
+31440 milliseconds
+
+Average time 31548 milliseconds
+
+
+
+40000 numbers
+8074 milliseconds
+7769 milliseconds
+7877 milliseconds
+7871 milliseconds
+7712 milliseconds
+7825 milliseconds
+
+Average time 7855 milliseconds
