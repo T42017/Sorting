@@ -17,6 +17,7 @@ namespace QuickSort
         private static void Main(string[] args)
         {
             Console.WriteLine($"Sorting {_lengthOfArray} numbers...\r\n");
+
             // Create array and initialize it with random values
             var nums = new int[_lengthOfArray];
             for (int i = 0; i < nums.Length; i++)
