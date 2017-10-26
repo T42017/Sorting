@@ -41,9 +41,9 @@ namespace QuickSort
             QuickSort(nums, left, right);
 
             // Log time after sorting array
+            var afterTime = DateTime.Now.TimeOfDay;
             Console.WriteLine("\tAfter sorting");
             Console.WriteLine("\t--------------------");
-            var afterTime = DateTime.Now.TimeOfDay;
             Console.WriteLine("\t" + afterTime);
             Console.WriteLine("\t" + string.Join(", ", nums));
             Console.WriteLine("\t--------------------\r\n");
