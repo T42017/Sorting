@@ -1,0 +1,6 @@
+c:\users\usr\documents\visual studio 2017\Projects\Sort_array\Sort_array\obj\Debug\Sort_array.csprojResolveAssemblyReference.cache
+c:\users\usr\documents\visual studio 2017\Projects\Sort_array\Sort_array\bin\Debug\Sort_array.exe.config
+c:\users\usr\documents\visual studio 2017\Projects\Sort_array\Sort_array\bin\Debug\Sort_array.exe
+c:\users\usr\documents\visual studio 2017\Projects\Sort_array\Sort_array\bin\Debug\Sort_array.pdb
+c:\users\usr\documents\visual studio 2017\Projects\Sort_array\Sort_array\obj\Debug\Sort_array.exe
+c:\users\usr\documents\visual studio 2017\Projects\Sort_array\Sort_array\obj\Debug\Sort_array.pdb
