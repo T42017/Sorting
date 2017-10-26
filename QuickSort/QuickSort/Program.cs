@@ -32,9 +32,8 @@ namespace QuickSort
             var beforeTime = DateTime.Now.TimeOfDay;
             Console.WriteLine("\tBefore sorting");
             Console.WriteLine("\t--------------------");
-            Console.WriteLine("\t" + string.Join(", ", nums));
             Console.WriteLine("\t" + beforeTime);
-            //Console.WriteLine("\t" + string.Join(", ", nums));
+            Console.WriteLine("\t" + string.Join(", ", nums));
             Console.WriteLine("\t--------------------\r\n");
 
             // Sort array
@@ -45,11 +44,11 @@ namespace QuickSort
             Console.WriteLine("\tAfter sorting");
             Console.WriteLine("\t--------------------");
             var afterTime = DateTime.Now.TimeOfDay;
-            Console.WriteLine("\t" + string.Join(", ", nums));
             Console.WriteLine("\t" + afterTime);
-            //Console.WriteLine("\t" + string.Join(", ", nums));
+            Console.WriteLine("\t" + string.Join(", ", nums));
             Console.WriteLine("\t--------------------\r\n");
 
+            // Log total amount of time taken by algorithm
             Console.WriteLine($"Total elapsed milliseconds: {afterTime.TotalMilliseconds - beforeTime.TotalMilliseconds}.");
 
             Console.ReadKey();
